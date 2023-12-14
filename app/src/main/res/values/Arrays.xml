@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <array name="Continents">
+     <item>Afrique</item>
+     <item>Europe</item>
+     <item>Asie</item>
+     <item>Océanie</item>
+     <item>Amérique</item>
+ </array>
+    <array name="PaysAfr">
+        <item>Tunisie</item>
+        <item>Algerie</item>
+        <item>Maroc</item>
+        <item>Nigeria</item>
+        <item>Ghana</item>
+    </array>
+    <array name="PaysEur">
+        <item>France</item>
+        <item>Espagne</item>
+        <item>Italie</item>
+        <item>Allemagne</item>
+        <item>Pays Bas</item>
+    </array>
+    <array name="PaysAsie">
+        <item>Jordanie</item>
+        <item>Syrie</item>
+        <item>Japon</item>
+        <item>Chine</item>
+        <item>Inde</item>
+    </array>
+    <array name="PaysOc">
+        <item>Australie</item>
+        <item>Fidji</item>
+    <item>Nouvelle_Zélande</item>
+    </array>
+    <array name="PaysAm">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Argentine</item>
+        <item>Mexique</item>
+        <item>Uraguay</item>
+    </array>
+</resources>
